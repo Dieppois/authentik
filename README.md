@@ -36,4 +36,5 @@ Ne jamais utiliser `down -v` : les volumes contiennent les bases Authentik, Graf
 
 ## Documentation
 
-Le détail de chaque étape et les réponses aux questions sont dans [Doc.md](Doc.md).
+- TP1 (installation) : [Doc.md](Doc.md)
+- TP2 (identités, RBAC, MFA, SSO OIDC) : [Doc-TP2.md](Doc-TP2.md)
